@@ -10,6 +10,4 @@ Tidy Tuesday contributions and experiments
 
 I ran a sophisticated `beanalysis` of worldwide bean production:
 
-<center>
 ![](2020_09_01_crops/beans_final.png)
-</center>
